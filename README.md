@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Ankur Agrawal
-#### Design and development
-I am Ankur from India, currently working and living in London. I work as a full-stack engineer on a wide variety of tools and technologies.
+### Ankur Agrawal
+#### Software Development Engineer
+
+I am Ankur from India, currently working and living in London. I work as a full-stack engineer on a wide variety of tools and technologies. I am also continuously improving my abilities to manage small size projects.
 
 I have a passion to explore and learn new technologies.
 
-Skills: 
-
+#### Skills:
 :one: **Backend:** Java, Spring, REST, Junit  
 :two: **Web:** Angular, React, NodeJS, Cucumber, Protractor, Jasmine, Webpack  
 :three: **Database:** Couchbase, Oracle  
