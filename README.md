@@ -1,4 +1,4 @@
-### Ankur Agrawal [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankur93) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankur--agrawal/)  
+### Ankur Agrawal [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankur--agrawal/)  
 #### Software Development Engineer
 ![Profile views](https://gpvc.arturio.dev/ankur93)  
 
