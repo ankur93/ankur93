@@ -1,4 +1,4 @@
-### Ankur Agrawal [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ankur--agrawal/)  
+### Ankur Agrawal [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ankur93/)  
 #### Software Development Engineer
 ![Profile views](https://gpvc.arturio.dev/ankur93)  
 
