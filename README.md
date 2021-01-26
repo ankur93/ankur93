@@ -1,4 +1,4 @@
-### Ankur Agrawal [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankur--agrawal/)  
+### Ankur Agrawal [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ankur--agrawal/)  
 #### Software Development Engineer
 ![Profile views](https://gpvc.arturio.dev/ankur93)  
 
@@ -11,7 +11,7 @@ I have a passion to explore and learn new technologies.
 :u5272: **Backend:** Java, Spring, REST, Junit  
 :u6307: **Web:** Angular, React, NodeJS, Cucumber, Protractor, Jasmine, Webpack  
 :u7a7a: **Database:** Couchbase, Oracle  
-:u5408: **DevOps:** Jenkins, Azure DevOps, Ansible, Docker, Kubernetes  
+:u5408: **DevOps:** Jenkins, Azure DevOps, Terraform, Ansible, Docker, Kubernetes  
 :u6709: **Cloud:** Azure  
 :u6307: **Monitoring:** AppDynamics  
 :u7533: **Logging:** Splunk  
