@@ -6,13 +6,13 @@ I am Ankur from India, currently working and living in London. I work as a full-
 I have a passion to explore and learn new technologies.
 
 #### Skills:
-:one: **Backend:** Java, Spring, REST, Junit  
-:two: **Web:** Angular, React, NodeJS, Cucumber, Protractor, Jasmine, Webpack  
-:three: **Database:** Couchbase, Oracle  
-:four: **DevOps:** Jenkins, Azure DevOps, Ansible, Docker, Kubernetes  
-:five: **Cloud:** Azure  
-:six: **Monitoring:** AppDynamics  
-:seven: **Logging:** Splunk  
+:u5272: **Backend:** Java, Spring, REST, Junit  
+:u6307: **Web:** Angular, React, NodeJS, Cucumber, Protractor, Jasmine, Webpack  
+:u7a7a: **Database:** Couchbase, Oracle  
+:u5408: **DevOps:** Jenkins, Azure DevOps, Ansible, Docker, Kubernetes  
+:u6709: **Cloud:** Azure  
+:u6307: **Monitoring:** AppDynamics  
+:u7533: **Logging:** Splunk  
 
 - 🔭 I’m currently working on creating Ansible scripts to configure linux machines 
 - 🌱 I’m currently learning Azure Kubernetes Service (AKS) 
