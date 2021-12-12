@@ -8,10 +8,10 @@ I am Ankur, from India, currently working and living in London. I work as a full
 I have a passion to explore and learn new technologies.
 
 #### Skills:
-:u5272: **Backend:** Java 11, Spring, REST, Junit  
+:u5272: **Backend:** Java 11, Spring, REST, Junit  , Kafka
 :u6307: **Web:** Angular, React, NodeJS, Cucumber, Protractor, Jasmine, Webpack  
 :u7a7a: **Database:** Couchbase, Oracle  
-:u5408: **DevOps:** Jenkins, Azure DevOps, Terraform, Ansible, Docker, Kubernetes  
+:u5408: **DevOps:** Jenkins, Azure DevOps, Ansible, Docker, Kubernetes  
 :u6709: **Cloud:** Azure  
 :u6307: **Monitoring:** AppDynamics  
 :u7533: **Logging:** Splunk  
