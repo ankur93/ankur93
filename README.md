@@ -8,16 +8,16 @@ I am Ankur, from India, currently working and living in London. I work as a full
 I have a passion to explore and learn new technologies.
 
 #### Skills:
-:u5272: **Backend:** Java 11, Spring, REST, Junit  , Kafka
+:u5272: **Backend:** Python, Spark, Java 11, Spring, REST, Junit, Kafka  
 :u6307: **Web:** Angular, React, NodeJS, Cucumber, Protractor, Jasmine, Webpack  
-:u7a7a: **Database:** Couchbase, Oracle  
+:u7a7a: **Database:** Couchbase, Oracle, Cassandra, MySQL  
 :u5408: **DevOps:** Jenkins, Azure DevOps, Ansible, Docker, Kubernetes  
 :u6709: **Cloud:** Azure  
-:u6307: **Monitoring:** AppDynamics  
+:u6307: **Monitoring:** AppDynamics, Grafana  
 :u7533: **Logging:** Splunk  
 
-- 🔭 I’m currently working on creating Ansible scripts to configure linux machines 
-- 🌱 I’m currently learning Azure Kubernetes Service (AKS) 
+- 🔭 I’m currently working on creating a Chat bot using GenAI concepts and OpenAI API with Langchain. 
+- 🌱 I’m currently learning Statistics for [Data Science path](https://roadmap.sh/ai-data-scientist). 
 
 
 
